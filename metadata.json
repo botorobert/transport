@@ -1,0 +1,5 @@
+{
+  "name": "AMTPI Interactive Map",
+  "description": "Interactive metropolitan transport map for Iași with route selection and AI assistance.",
+  "requestFramePermissions": []
+}
